@@ -1,0 +1,50 @@
+
+/*Top portion the Banner*/
+#Header
+{
+	background-color: #000000;
+	color:#FFFFFF;
+	text-align: center;
+	padding: 20px;
+	width: 1000px;
+}
+/*left side home, search, upload, and help*/
+#Menu
+{
+	width: 100px;
+	height: 500px;
+	float: left;
+	padding:20px;
+	background-color: #2529a7;
+	color:#FFFFFF;
+}
+a
+{
+	color: #FF00FF;
+	cursor: pointer;
+}
+/*The meaty center with all the fun stuff*/
+#Main
+{
+	background-color: #FFFFFF;
+	width:1000px;
+	height: 500px;
+	float: left;
+	padding: 20px;
+}
+/*The bottom part (Duh)*/
+#Footer
+{
+	background-color: #000000;
+	color:#FFFFFF;
+	text-align: center;
+	padding: 20px;
+	width: 1000px;
+	clear: left;
+}
+.MenuSpace
+{
+	padding: 10px;
+	font-family: Comic Sans, Comic Sans MS, cursive;
+}
+
